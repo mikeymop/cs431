@@ -118,7 +118,7 @@ def sql14():
 cmd = str(sys.argv[1])
 
 try:
-    database = mysql.connector.connect(host="sql.njit.edu", user="md537", password="freshen77", database="md537"
+    database = mysql.connector.connect(host="sql.njit.edu", user="jeb49", password="Da7HitCPO", database="jeb49"
     )
 except mysql.connector.Error as err:
     print(err)
